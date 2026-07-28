@@ -1,0 +1,32 @@
+{
+  "appName": "test",
+  "defaultTheme": "theme-dark",
+  "buttonRadius": 8,
+  "versions": [
+    {
+      "id": "v1.0.2",
+      "name": "v1.0.2",
+      "url": "https://github.com/PoProstuMarcin0/voxelfall-launcher/releases/download/1.0.2/voxelfall.1.0.2.zip"
+    }
+  ],
+  "changelogs": [
+    {
+      "id": "1785243299162",
+      "version": "1.0.2",
+      "title": "test update",
+      "date": "Dzisiaj",
+      "summary": "1: poprawiono optymalizację \\n 2.naprawiono logowanie \\n 3.poprwaiono wygląd UI",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdfxqBrUYfCzMZOppfs0MW64on8Ab5g4ZrMVb9CCHQGw&s=10"
+    }
+  ],
+  "announcements": [
+    {
+      "id": "1785243391857",
+      "title": "test ogłoszenie",
+      "category": "Społeczność",
+      "date": "Dzisiaj",
+      "summary": "wersja 1.0.3 już nie długo!",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ3iFuSqm_Fq3VWl_DukS1lWoN5hIQ4C183b3AHnqv0Q&s"
+    }
+  ]
+}
