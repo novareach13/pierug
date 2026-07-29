@@ -1,0 +1,13 @@
+{
+    "game_name": "Moja Super Gra",
+    "version": "1.0.0",
+    "banner_url": "https://i.imgur.com/B1R5Mia.png",
+    "download_url": "https://github.com/novareach13/pierug/releases/download/1.0/Pirate.Quest.zip",
+    "exe_name": "Pirate Quest.exe",
+    "theme": {
+        "accent": "#FF0055",
+        "card_bg": "#1A0933"
+    },
+    "announcements": [],
+    "changelog": []
+}
