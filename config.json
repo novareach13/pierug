@@ -8,5 +8,14 @@
         "accent": "#2EA043",
         "card_bg": "#1F1F1F"
     },
-    "cards": []
+    "cards": [
+        {
+            "title": "Version 1.0.0 - Major Update",
+            "tag": "UPDATE",
+            "version": "v1.0.0",
+            "date": "July 30, 2026",
+            "thumbnail": "https://i.imgur.com/8MZUztU.png",
+            "text": "wfawf"
+        }
+    ]
 }
