@@ -5,8 +5,8 @@
     "download_url": "https://github.com/novareach13/pierug/releases/download/v1.0/GloomCraft.zip",
     "exe_name": "index.html",
     "theme": {
-        "accent": "#2EA043",
-        "card_bg": "#1F1F1F"
+        "accent": "#3C8527",
+        "card_bg": "#1E1E1E"
     },
     "cards": [
         {
@@ -14,8 +14,8 @@
             "tag": "UPDATE",
             "version": "v1.0.0",
             "date": "July 30, 2026",
-            "thumbnail": "https://i.imgur.com/8MZUztU.png",
-            "text": "wfawf"
+            "thumbnail": "https://i.imgur.com/3uNdgZF.png",
+            "text": "test update :D"
         }
     ]
 }
