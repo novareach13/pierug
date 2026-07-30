@@ -5,8 +5,8 @@
     "download_url": "https://github.com/novareach13/pierug/releases/download/v1.0/GloomCraft.zip",
     "exe_name": "index.html",
     "theme": {
-        "accent": "#BD93F9",
-        "card_bg": "#282A36"
+        "accent": "#E53935",
+        "card_bg": "#212121"
     },
     "cards": [
         {
